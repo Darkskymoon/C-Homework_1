@@ -12,6 +12,8 @@ public class Homework_1 {
 		System.out.println("Ando");
 		System.out.println("andopepe - 72629610\n");
 
+		System.out.println("John");
+		System.out.println("LinYu-Ch - 126700922");
 	}
 
 }
