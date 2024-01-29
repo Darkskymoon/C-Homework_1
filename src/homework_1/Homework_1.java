@@ -7,7 +7,10 @@ public class Homework_1 {
 		System.out.println("Darkskymoon - 108477682\n");
 		
 		System.out.println("Ryan");
-		System.out.println("Derbzzzzzz - 106635735\n6");
+		System.out.println("Derbzzzzzz - 106635735\n");
+		
+		System.out.println("Ando");
+		System.out.println("andopepe - 72629610\n");
 
 	}
 
